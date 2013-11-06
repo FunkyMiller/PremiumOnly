@@ -1,0 +1,8 @@
+name: Premium Only Plugin
+main: io.github.FunkyMiller.PremiumOnly.PremiumOnlyPlugin
+version: 0.1
+description: Hide non-premium players in the game
+author: FunkyMiller
+commands:
+	hidenonpremplayers:
+		description" Hides Non-Premium players

@@ -1,0 +1,15 @@
+# Use '§' to change the color of the messages.
+# Plugin Created by FunkyMiller.
+# Plugin Tester - FunkyMiller.
+Toggle_ON: §6All non-premium players become invisible.
+Toggle_OFF: §6All non-premium players become visible.
+Default_Permissions: false
+exempt: true
+item_id: 399
+Item_on_Join: true
+Name: §6Hide Players
+Lore: §cRight Click to activate plugins.
+Enabled_Worlds:
+- world
+- world_nether
+- world_the_end
